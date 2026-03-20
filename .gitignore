@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de test / exécution
+*.eml
+output.txt
+
+# Node modules (apparemment présents dans le dossier)
+node_modules/
+package-lock.json
+
+# Fichiers système
+.DS_Store
+Thumbs.db
