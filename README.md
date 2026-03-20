@@ -31,7 +31,7 @@ Les bibliothèques requises sont :
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/Analyseur_phishing.git
+   git clone https://github.com/aubryl29/Analyseur_phishing.git
    cd Analyseur_phishing
    ```
 
